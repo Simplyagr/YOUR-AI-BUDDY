@@ -1,0 +1,19 @@
+com/example/chatbot/RetrofitAPI.java
+ com.example.chatbot.RetrofitAPI
+com/example/chatbot/Splash.java
+ com.example.chatbot.Splash
+ com.example.chatbot.Splash$1
+com/example/chatbot/ChatRVAdapter.java
+ com.example.chatbot.ChatRVAdapter
+ com.example.chatbot.ChatRVAdapter$BotViewHolder
+ com.example.chatbot.ChatRVAdapter$UserViewHolder
+com/example/chatbot/ChatsModal.java
+ com.example.chatbot.ChatsModal
+com/example/chatbot/MainActivity.java
+ com.example.chatbot.MainActivity
+ com.example.chatbot.MainActivity$1
+ com.example.chatbot.MainActivity$2
+com/example/chatbot/BuildConfig.java
+ com.example.chatbot.BuildConfig
+com/example/chatbot/MsgModel.java
+ com.example.chatbot.MsgModel

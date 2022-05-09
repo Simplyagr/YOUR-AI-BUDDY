@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green_bg">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="155dp"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/about_us" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView3"
+                android:paddingTop="15dp"
+                android:text="About Us"
+                android:textColor="#F0F3DD"
+                android:textAlignment="center"
+                android:textSize="37dp" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/imageView3"
+                android:textColor="@color/textColor"
+                android:text="We are a group of four Android developers currently pursuing diploma in Computer Engineering. This is our Capstone project made to be presented in our final semester. Following the current trend in Mental Health, our team decided to develop an app pertaining to the concept of being a therapist for the general populace for their mental prosperity. We have compiled and researched ways that may help a person to assist with their mental well-being and this app is its final product. "
+                android:textAlignment="center"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView3"
+                android:paddingTop="10dp"
+                android:textColor="#F0F3DD"
+                android:text="Development Team"
+                android:textAlignment="center"
+                android:textSize="30dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:layout_gravity="fill_horizontal"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/chaitali"
+                    android:layout_width="300dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/app_name"
+                    android:paddingTop="10dp"
+                    android:src="@drawable/chaitali"
+                    />
+
+                <ImageView
+                    android:id="@+id/aryan"
+                    android:layout_width="300dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/app_name"
+                    android:paddingTop="10dp"
+                    android:src="@drawable/aryan"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="fill_horizontal"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/arya"
+                    android:layout_width="300dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/app_name"
+                    android:paddingTop="10dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:src="@drawable/arya"
+                    />
+
+                <ImageView
+                    android:id="@+id/nimisha"
+                    android:layout_width="300dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/app_name"
+                    android:paddingTop="10dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:src="@drawable/nimisha" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

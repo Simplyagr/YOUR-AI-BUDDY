@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.newnavigation.FirstActivity"
+    android:background="@color/green_bg">
+
+
+    <Button
+        android:id="@+id/chatbotai"
+        android:layout_width="281dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="228dp"
+        android:text="AI Chatbot"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@color/textColor"
+        android:backgroundTint="@color/colorBackgroundLightGreen"/>
+
+    <Button
+        android:id="@+id/meditate"
+        android:layout_width="281dp"
+        android:layout_height="73dp"
+        android:text="Meditate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chatbotai"
+        android:textColor="@color/textColor"
+        android:backgroundTint="@color/colorBackgroundLightGreen"/>
+
+    <Button
+        android:id="@+id/mygoals"
+        android:layout_width="281dp"
+        android:layout_height="73dp"
+        android:text="My Goals"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/meditate"
+        android:textColor="@color/textColor"
+        android:backgroundTint="@color/colorBackgroundLightGreen"/>
+
+    <Button
+        android:id="@+id/faqs"
+        android:layout_width="281dp"
+        android:layout_height="73dp"
+        android:text="FAQs"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mygoals"
+        android:textColor="@color/textColor"
+        android:backgroundTint="@color/colorBackgroundLightGreen"/>
+
+    <Button
+        android:id="@+id/howToUse"
+        android:layout_width="281dp"
+        android:layout_height="73dp"
+        android:text="How to Use"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/faqs"
+        android:textColor="@color/textColor"
+        android:backgroundTint="@color/colorBackgroundLightGreen"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

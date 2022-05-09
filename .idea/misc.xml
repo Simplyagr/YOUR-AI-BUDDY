@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/drawable/ic_info.xml" value="0.26614583333333336" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/activity_fifth.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/activity_fourth.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/activity_third.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/layout/task_layout.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/CAPSTONE_Personal/app/src/main/res/menu/menu_info.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/drawable-hdpi/ic_user_navhead.xml" value="0.16" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/drawable-mdpi/ic_edit.xml" value="0.2555" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/drawable/ic_about_us.xml" value="0.1885" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/drawable/ic_user_nav.xml" value="0.26614583333333336" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_about_us.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_first.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_fourth.xml" value="0.22916666666666666" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_on_boarding_design_one.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_third.xml" value="0.2368659420289855" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/item_container_boarding_one.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/item_container_boarding_two.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/layout_dialog.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Pers/Chaitali/New Chaitali/Github/Chatbot/CAPSTONE-Chatbot-/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/drawable-xhdpi/background_received_message.xml" value="0.197" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/drawable-xhdpi/background_sent_message.xml" value="0.197" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/drawable/drawable_circle_purple.xml" value="0.197" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/drawable/ic_chat.xml" value="0.1795" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/drawable/ic_home.xml" value="0.1795" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/drawable/ic_user.xml" value="0.2555" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_about_us.xml" value="0.1" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_fifth.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_fourth.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_on_boarding_design_one.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_second.xml" value="0.10689890710382513" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_seventh.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_sixth.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/activity_third.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/bot_msg_rv_item.xml" value="0.10689890710382513" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/ic_bot.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/image_logo_about_us.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/item_container_boarding_one.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/item_container_boarding_two.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/new_task.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/slide_item_container.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/task_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/layout/user_msg_rv_item.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Users/Aryan Raje/Documents/GitHub/CAPSTONE-Chatbot-/app/src/main/res/menu/menu_info.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable-anydpi/ic_action_exit.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable-v24/ic_menu_activity.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable-v24/ic_send.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable-v24/ic_user.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/back_addtask.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/border.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_chat.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_chatbot.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_exit.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_exit_black.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_faq.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_goal.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_home.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_meditate.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_send.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/ic_user.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/drawable/side_nav_bar.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_fifth.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_first.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_fourth.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_sixth.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/activity_third.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/bot_msg_rv_item.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/drawable_circle_dark_blue.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/drawable_circle_yellow.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/list_group.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/nav_header_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/layout/user_msg_rv_item.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/menu_fifth.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/menu_first.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/menu_fourth.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/menu_second.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NewNavigation/app/src/main/res/menu/menu_third.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

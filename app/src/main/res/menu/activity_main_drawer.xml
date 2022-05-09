@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_activity1"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_activity2"
+            android:icon="@drawable/ic_chat"
+            android:title="Chatbot AI" />
+        <item
+            android:id="@+id/nav_activity3"
+            android:icon="@drawable/ic_meditate"
+            android:title="Meditate" />
+        <item
+            android:id="@+id/nav_activity4"
+            android:icon="@drawable/ic_goal"
+            android:title="My Goals" />
+        <item
+            android:id="@+id/nav_activity5"
+            android:icon="@drawable/ic_faq"
+            android:title="FAQs" />
+        <item
+            android:id="@+id/nav_activity6"
+            android:icon="@drawable/ic_howtouse"
+            android:title="How To Use" />
+        <item
+            android:id="@+id/nav_activity7"
+            android:icon="@drawable/ic_about_us"
+            android:title="About Us"/>
+        <item
+            android:id="@+id/nav_activity8"
+            android:icon="@drawable/ic_exit_black"
+            android:title="Exit"/>
+    </group>
+</menu>
